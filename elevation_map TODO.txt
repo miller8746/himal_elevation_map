@@ -2,6 +2,7 @@ Visual:
 -Change marker images to be more representitive, e.g. something other than a red dot
 -Add icon for browser tab
 -Replace top bar with Leaflet control layer?
+-Change elevation filter to UI sliders
 
 Features:
 -Initial hook up to DB
