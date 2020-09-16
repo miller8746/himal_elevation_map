@@ -1,0 +1,15 @@
+Visual:
+-Change marker images to be more representitive, e.g. something other than a red dot
+-Add icon for browser tab
+-Replace top bar with Leaflet control layer?
+
+Features:
+-Initial hook up to DB
+-Add support for DB tables: villages, routes, expeditions, members?  Change title based on this
+-Increase interactibility of map markers (popup with additional info)
+-Additional features (minimap, search bar, aknowledgements, filter by element type)
+-Link to acknowledgements/description on second page
+
+Testing:
+-Test in browsers other than Chrome.  Mobile?
+-Do more in-depth testing of filter functionality
