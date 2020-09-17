@@ -2,7 +2,8 @@ Visual:
 -Change marker images to be more representitive, e.g. something other than a red dot
 -Add icon for browser tab
 -Replace top bar with Leaflet control layer?
--Change elevation filter to UI sliders
+-Change map height to fill available space (would come for free by replacing top bar with Leaflet control layer)
+-Change elevation filter to UI sliders (Likely requires extension of L.Control)
 
 Features:
 -Initial hook up to DB
@@ -14,3 +15,4 @@ Features:
 Testing:
 -Test in browsers other than Chrome.  Mobile?
 -Do more in-depth testing of filter functionality
+-Check to see if the rapid-scroll bounding box bug is fixable.  Remove altogether?
